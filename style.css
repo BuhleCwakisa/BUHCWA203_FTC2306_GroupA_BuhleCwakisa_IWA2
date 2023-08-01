@@ -1,0 +1,13 @@
+.title {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    background-color: black;
+
+}
+
+body {
+    background-color: rgb(73, 73, 155);
+}
